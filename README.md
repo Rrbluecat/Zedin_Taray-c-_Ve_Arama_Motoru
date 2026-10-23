@@ -61,3 +61,4 @@ Gizlilik yaklaşımı
 Projenin hedeflerinden biri, kullanıcı verilerini mümkün olduğunca kullanıcının cihazında tutmak ve gereksiz veri toplamaktan kaçınmaktır. Bu hedef, mevcut prototipin bütün güvenlik ve gizlilik özelliklerinin tamamlandığı anlamına gelmez.
 Üçüncü taraf bileşenler
 cHTTP kaynak dosyalarının kendi lisans bildirimi chttp.c dosyasının sonunda yer alır. Bu bileşen Francesco Cozzuto tarafından yayımlanmıştır. Dağıtım sırasında ilgili lisans koşulları korunmalıdır. EOF
+# Zedin_Taray-c-_Ve_Arama_Motoru
