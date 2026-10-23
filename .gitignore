@@ -1,0 +1,28 @@
+# Derlenmis programlar
+/zedin_browser
+/zedin_gui
+/zedin_indexer
+/zedin_search
+/deneme*
+
+# Yerel indeks verisi
+/*.zidx
+
+# Yedekler
+*.bak
+*.save
+*.save.*
+
+# Gecici gelistirme betigi
+/yonlendirme_ekle.py
+
+# Derleme ciktilari
+*.o
+*.so
+a.out
+
+# Gizli bilgiler
+.env
+.env.*
+*.pem
+*.key
